@@ -1,4 +1,10 @@
 {
   "photos": [
+    {
+      "image": "images/1792016584941-d9kh5-IMG_7926.jpeg",
+      "alt": "banner",
+      "category": "editorial",
+      "showCaption": false
+    }
   ]
 }
